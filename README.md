@@ -1,10 +1,10 @@
 👋 Hi, I’m @Pawan1019
 
-👀 I’m interested in Python Development
+👀 I’m interested in Data Science
 
-🌱 I’m currently learning AI And Machine Learning
+🌱 I’m currently learning Data Visualization And Machine Learning
 
-💞️ I’m looking to collaborate on Internship
+💞️ I’m looking to collaborate on Data Analysis and Datavisualization projects
 
 📫 How to reach me kumarguptapawan35@gmail.com
 
