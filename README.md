@@ -12,13 +12,15 @@
 
 **Things I love:**
 
-1. Python 
+1. Python
 
-2. Frontend and Backend Development ✍️
+2. Java 
 
-3. Machine Learning 🧐
+3. Frontend and Backend Development ✍️
 
-4. Data Science 😬
+4. Machine Learning 🧐
+
+5. Data Science 😬
 <!---
 Pawan0019/Pawan0019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
